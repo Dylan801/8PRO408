@@ -1,0 +1,29 @@
+Netflix Movies and TV Shows Data Analysis
+
+https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis
+
+1 Nettoyage + Contexte
+2 Analyse temporelle, géographique
+3 Matrice de corrélation et analyse
+4  Régression et prédiction
+
+Netflix produit-il plus de films ou de séries ces dernières années ?
+Quels pays produisent le plus de contenu ?
+Y a-t-il une corrélation entre la durée d'un film et sa note ?
+Quels genres sont les plus représentés par pays ?
+Comment la diversité du catalogue a-t-elle évolué dans le temps ?
+Les contenus pour adultes (TV-MA) sont-ils mieux notés ?
+Quels acteurs/réalisateurs apparaissent le plus souvent ?
+Y a-t-il une saison privilégiée pour ajouter du contenu ?
+Les séries courtes (1 saison) sont-elles plus fréquentes récemment ?
+Quel est le profil type d'un contenu bien noté sur Netflix ?
+
+Avant d'avancer sur le projet j'aurais besoin que tu réponde à ces qurstions :
+
+Explique le contexte du projet 
+détailler le jeu de données, la structure et quelques échantillons
+énoncés les questions auxquels on souhaite répondre
+Expiquer les défis et/ou résolutions de problèmes dans l'équipe 
+Présenter les résutats obtenus
+
+Je vais avoir cinq minutes de questions sur le projet et doit réaliser unedémo courte + présentation via un support
